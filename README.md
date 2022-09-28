@@ -1,2 +1,2 @@
-# system-design-mini-achitectures
-System Design architectures of features that can be implemented properly with real life scenarios
+# System Design Mini Achitectures
+List of random features and how best it should be properly implemented
